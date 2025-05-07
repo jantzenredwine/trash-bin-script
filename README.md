@@ -1,1 +1,1 @@
-# trash-bin-script
+# unix-trash-bin
